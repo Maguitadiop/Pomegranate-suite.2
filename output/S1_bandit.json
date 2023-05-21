@@ -1,0 +1,29 @@
+[
+    {
+        "title": "Use of exec detected.",
+        "desc": "https://bandit.readthedocs.io/en/1.7.5/plugins/b102_exec_used.html",
+        "severity": "MEDIUM",
+        "location": {
+            "filename": "./apps/MicroBank/services\\accounts\\accounts\\db_controller\\db_migrate.py",
+            "line_number": 23
+        }
+    },
+    {
+        "title": "Use of exec detected.",
+        "desc": "https://bandit.readthedocs.io/en/1.7.5/plugins/b102_exec_used.html",
+        "severity": "MEDIUM",
+        "location": {
+            "filename": "./apps/MicroBank/services\\transactions\\transactions\\db_controller\\db_migrate.py",
+            "line_number": 23
+        }
+    },
+    {
+        "title": "Use of exec detected.",
+        "desc": "https://bandit.readthedocs.io/en/1.7.5/plugins/b102_exec_used.html",
+        "severity": "MEDIUM",
+        "location": {
+            "filename": "./apps/MicroBank/services\\users\\users\\db_controller\\db_migrate.py",
+            "line_number": 23
+        }
+    }
+]

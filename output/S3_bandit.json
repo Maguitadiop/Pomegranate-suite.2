@@ -1,0 +1,182 @@
+[
+    {
+        "title": "Requests call without timeout",
+        "desc": "https://bandit.readthedocs.io/en/1.7.5/plugins/b113_request_without_timeout.html",
+        "severity": "MEDIUM",
+        "location": {
+            "filename": "./apps/MicroBank/services\\apigateway\\apigateway\\api.py",
+            "line_number": 82
+        }
+    },
+    {
+        "title": "Requests call without timeout",
+        "desc": "https://bandit.readthedocs.io/en/1.7.5/plugins/b113_request_without_timeout.html",
+        "severity": "MEDIUM",
+        "location": {
+            "filename": "./apps/MicroBank/services\\apigateway\\apigateway\\api.py",
+            "line_number": 105
+        }
+    },
+    {
+        "title": "Requests call without timeout",
+        "desc": "https://bandit.readthedocs.io/en/1.7.5/plugins/b113_request_without_timeout.html",
+        "severity": "MEDIUM",
+        "location": {
+            "filename": "./apps/MicroBank/services\\apigateway\\apigateway\\api.py",
+            "line_number": 123
+        }
+    },
+    {
+        "title": "Requests call without timeout",
+        "desc": "https://bandit.readthedocs.io/en/1.7.5/plugins/b113_request_without_timeout.html",
+        "severity": "MEDIUM",
+        "location": {
+            "filename": "./apps/MicroBank/services\\apigateway\\apigateway\\api.py",
+            "line_number": 142
+        }
+    },
+    {
+        "title": "Requests call without timeout",
+        "desc": "https://bandit.readthedocs.io/en/1.7.5/plugins/b113_request_without_timeout.html",
+        "severity": "MEDIUM",
+        "location": {
+            "filename": "./apps/MicroBank/services\\apigateway\\apigateway\\api.py",
+            "line_number": 160
+        }
+    },
+    {
+        "title": "Requests call without timeout",
+        "desc": "https://bandit.readthedocs.io/en/1.7.5/plugins/b113_request_without_timeout.html",
+        "severity": "MEDIUM",
+        "location": {
+            "filename": "./apps/MicroBank/services\\apigateway\\apigateway\\api.py",
+            "line_number": 188
+        }
+    },
+    {
+        "title": "Requests call without timeout",
+        "desc": "https://bandit.readthedocs.io/en/1.7.5/plugins/b113_request_without_timeout.html",
+        "severity": "MEDIUM",
+        "location": {
+            "filename": "./apps/MicroBank/services\\apigateway\\apigateway\\api.py",
+            "line_number": 213
+        }
+    },
+    {
+        "title": "Requests call without timeout",
+        "desc": "https://bandit.readthedocs.io/en/1.7.5/plugins/b113_request_without_timeout.html",
+        "severity": "MEDIUM",
+        "location": {
+            "filename": "./apps/MicroBank/services\\apigateway\\apigateway\\api_falcon.py",
+            "line_number": 50
+        }
+    },
+    {
+        "title": "Requests call without timeout",
+        "desc": "https://bandit.readthedocs.io/en/1.7.5/plugins/b113_request_without_timeout.html",
+        "severity": "MEDIUM",
+        "location": {
+            "filename": "./apps/MicroBank/services\\apigateway\\apigateway\\api_falcon.py",
+            "line_number": 75
+        }
+    },
+    {
+        "title": "Requests call without timeout",
+        "desc": "https://bandit.readthedocs.io/en/1.7.5/plugins/b113_request_without_timeout.html",
+        "severity": "MEDIUM",
+        "location": {
+            "filename": "./apps/MicroBank/services\\apigateway\\apigateway\\api_falcon.py",
+            "line_number": 93
+        }
+    },
+    {
+        "title": "Requests call without timeout",
+        "desc": "https://bandit.readthedocs.io/en/1.7.5/plugins/b113_request_without_timeout.html",
+        "severity": "MEDIUM",
+        "location": {
+            "filename": "./apps/MicroBank/services\\apigateway\\apigateway\\api_falcon.py",
+            "line_number": 124
+        }
+    },
+    {
+        "title": "Requests call without timeout",
+        "desc": "https://bandit.readthedocs.io/en/1.7.5/plugins/b113_request_without_timeout.html",
+        "severity": "MEDIUM",
+        "location": {
+            "filename": "./apps/MicroBank/services\\payment\\payment\\api.py",
+            "line_number": 97
+        }
+    },
+    {
+        "title": "Requests call without timeout",
+        "desc": "https://bandit.readthedocs.io/en/1.7.5/plugins/b113_request_without_timeout.html",
+        "severity": "MEDIUM",
+        "location": {
+            "filename": "./apps/MicroBank/services\\payment\\payment\\api.py",
+            "line_number": 114
+        }
+    },
+    {
+        "title": "Requests call without timeout",
+        "desc": "https://bandit.readthedocs.io/en/1.7.5/plugins/b113_request_without_timeout.html",
+        "severity": "MEDIUM",
+        "location": {
+            "filename": "./apps/MicroBank/services\\payment\\payment\\api.py",
+            "line_number": 128
+        }
+    },
+    {
+        "title": "Requests call without timeout",
+        "desc": "https://bandit.readthedocs.io/en/1.7.5/plugins/b113_request_without_timeout.html",
+        "severity": "MEDIUM",
+        "location": {
+            "filename": "./apps/MicroBank/unittests\\accounts_tests.py",
+            "line_number": 29
+        }
+    },
+    {
+        "title": "Requests call without timeout",
+        "desc": "https://bandit.readthedocs.io/en/1.7.5/plugins/b113_request_without_timeout.html",
+        "severity": "MEDIUM",
+        "location": {
+            "filename": "./apps/MicroBank/unittests\\accounts_tests.py",
+            "line_number": 34
+        }
+    },
+    {
+        "title": "Requests call without timeout",
+        "desc": "https://bandit.readthedocs.io/en/1.7.5/plugins/b113_request_without_timeout.html",
+        "severity": "MEDIUM",
+        "location": {
+            "filename": "./apps/MicroBank/unittests\\accounts_tests.py",
+            "line_number": 40
+        }
+    },
+    {
+        "title": "Requests call without timeout",
+        "desc": "https://bandit.readthedocs.io/en/1.7.5/plugins/b113_request_without_timeout.html",
+        "severity": "MEDIUM",
+        "location": {
+            "filename": "./apps/MicroBank/unittests\\accounts_tests.py",
+            "line_number": 46
+        }
+    },
+    {
+        "title": "Requests call without timeout",
+        "desc": "https://bandit.readthedocs.io/en/1.7.5/plugins/b113_request_without_timeout.html",
+        "severity": "MEDIUM",
+        "location": {
+            "filename": "./apps/MicroBank/unittests\\accounts_tests.py",
+            "line_number": 52
+        }
+    },
+    {
+        "title": "Requests call without timeout",
+        "desc": "https://bandit.readthedocs.io/en/1.7.5/plugins/b113_request_without_timeout.html",
+        "severity": "MEDIUM",
+        "location": {
+            "filename": "./apps/MicroBank/unittests\\accounts_tests.py",
+            "line_number": 58
+        }
+    }
+]

@@ -1,0 +1,281 @@
+{
+  "results": {
+    "scan_errors": [
+      {
+        "iac_type": "arm",
+        "directory": "/vagrant/home/Pomegranate-suite/apps/MicroBank",
+        "errMsg": "ARM files not found in the directory /vagrant/home/Pomegranate-suite/apps/MicroBank"
+      },
+      {
+        "iac_type": "terraform",
+        "directory": "/vagrant/home/Pomegranate-suite/apps/MicroBank",
+        "errMsg": "directory '/vagrant/home/Pomegranate-suite/apps/MicroBank' has no terraform config files"
+      },
+      {
+        "iac_type": "terraform",
+        "directory": "/vagrant/home/Pomegranate-suite/apps/MicroBank/client",
+        "errMsg": "directory '/vagrant/home/Pomegranate-suite/apps/MicroBank/client' has no terraform config files"
+      },
+      {
+        "iac_type": "terraform",
+        "directory": "/vagrant/home/Pomegranate-suite/apps/MicroBank/docker_image_template",
+        "errMsg": "directory '/vagrant/home/Pomegranate-suite/apps/MicroBank/docker_image_template' has no terraform config files"
+      },
+      {
+        "iac_type": "terraform",
+        "directory": "/vagrant/home/Pomegranate-suite/apps/MicroBank/services",
+        "errMsg": "directory '/vagrant/home/Pomegranate-suite/apps/MicroBank/services' has no terraform config files"
+      },
+      {
+        "iac_type": "terraform",
+        "directory": "/vagrant/home/Pomegranate-suite/apps/MicroBank/services/accounts",
+        "errMsg": "directory '/vagrant/home/Pomegranate-suite/apps/MicroBank/services/accounts' has no terraform config files"
+      },
+      {
+        "iac_type": "terraform",
+        "directory": "/vagrant/home/Pomegranate-suite/apps/MicroBank/services/accounts/accounts",
+        "errMsg": "directory '/vagrant/home/Pomegranate-suite/apps/MicroBank/services/accounts/accounts' has no terraform config files"
+      },
+      {
+        "iac_type": "terraform",
+        "directory": "/vagrant/home/Pomegranate-suite/apps/MicroBank/services/accounts/accounts/db_controller",
+        "errMsg": "directory '/vagrant/home/Pomegranate-suite/apps/MicroBank/services/accounts/accounts/db_controller' has no terraform config files"
+      },
+      {
+        "iac_type": "terraform",
+        "directory": "/vagrant/home/Pomegranate-suite/apps/MicroBank/services/apigateway",
+        "errMsg": "directory '/vagrant/home/Pomegranate-suite/apps/MicroBank/services/apigateway' has no terraform config files"
+      },
+      {
+        "iac_type": "terraform",
+        "directory": "/vagrant/home/Pomegranate-suite/apps/MicroBank/services/apigateway/apigateway",
+        "errMsg": "directory '/vagrant/home/Pomegranate-suite/apps/MicroBank/services/apigateway/apigateway' has no terraform config files"
+      },
+      {
+        "iac_type": "terraform",
+        "directory": "/vagrant/home/Pomegranate-suite/apps/MicroBank/services/common_files",
+        "errMsg": "directory '/vagrant/home/Pomegranate-suite/apps/MicroBank/services/common_files' has no terraform config files"
+      },
+      {
+        "iac_type": "terraform",
+        "directory": "/vagrant/home/Pomegranate-suite/apps/MicroBank/services/common_files/general",
+        "errMsg": "directory '/vagrant/home/Pomegranate-suite/apps/MicroBank/services/common_files/general' has no terraform config files"
+      },
+      {
+        "iac_type": "terraform",
+        "directory": "/vagrant/home/Pomegranate-suite/apps/MicroBank/services/payment",
+        "errMsg": "directory '/vagrant/home/Pomegranate-suite/apps/MicroBank/services/payment' has no terraform config files"
+      },
+      {
+        "iac_type": "terraform",
+        "directory": "/vagrant/home/Pomegranate-suite/apps/MicroBank/services/payment/payment",
+        "errMsg": "directory '/vagrant/home/Pomegranate-suite/apps/MicroBank/services/payment/payment' has no terraform config files"
+      },
+      {
+        "iac_type": "terraform",
+        "directory": "/vagrant/home/Pomegranate-suite/apps/MicroBank/services/transactions",
+        "errMsg": "directory '/vagrant/home/Pomegranate-suite/apps/MicroBank/services/transactions' has no terraform config files"
+      },
+      {
+        "iac_type": "terraform",
+        "directory": "/vagrant/home/Pomegranate-suite/apps/MicroBank/services/transactions/transactions",
+        "errMsg": "directory '/vagrant/home/Pomegranate-suite/apps/MicroBank/services/transactions/transactions' has no terraform config files"
+      },
+      {
+        "iac_type": "terraform",
+        "directory": "/vagrant/home/Pomegranate-suite/apps/MicroBank/services/transactions/transactions/db_controller",
+        "errMsg": "directory '/vagrant/home/Pomegranate-suite/apps/MicroBank/services/transactions/transactions/db_controller' has no terraform config files"
+      },
+      {
+        "iac_type": "terraform",
+        "directory": "/vagrant/home/Pomegranate-suite/apps/MicroBank/services/users",
+        "errMsg": "directory '/vagrant/home/Pomegranate-suite/apps/MicroBank/services/users' has no terraform config files"
+      },
+      {
+        "iac_type": "terraform",
+        "directory": "/vagrant/home/Pomegranate-suite/apps/MicroBank/services/users/users",
+        "errMsg": "directory '/vagrant/home/Pomegranate-suite/apps/MicroBank/services/users/users' has no terraform config files"
+      },
+      {
+        "iac_type": "terraform",
+        "directory": "/vagrant/home/Pomegranate-suite/apps/MicroBank/services/users/users/db_controller",
+        "errMsg": "directory '/vagrant/home/Pomegranate-suite/apps/MicroBank/services/users/users/db_controller' has no terraform config files"
+      },
+      {
+        "iac_type": "terraform",
+        "directory": "/vagrant/home/Pomegranate-suite/apps/MicroBank/unittests",
+        "errMsg": "directory '/vagrant/home/Pomegranate-suite/apps/MicroBank/unittests' has no terraform config files"
+      },
+      {
+        "iac_type": "cft",
+        "directory": "/vagrant/home/Pomegranate-suite/apps/MicroBank",
+        "errMsg": "error while loading iac file '/vagrant/home/Pomegranate-suite/apps/MicroBank/docker_image_template', err: unable to read file /vagrant/home/Pomegranate-suite/apps/MicroBank/docker_image_template"
+      },
+      {
+        "iac_type": "cft",
+        "directory": "/vagrant/home/Pomegranate-suite/apps/MicroBank/docker_image_template",
+        "errMsg": "error while loading iac file '/vagrant/home/Pomegranate-suite/apps/MicroBank/docker_image_template/requirements.txt', err: error while unmarshalling yaml, error yaml: unmarshal errors:\n  line 1: cannot unmarshal !!str `Flask==...` into map[interface {}]interface {}"
+      },
+      {
+        "iac_type": "k8s",
+        "directory": "/vagrant/home/Pomegranate-suite/apps/MicroBank",
+        "errMsg": "kubernetes files not found in the directory /vagrant/home/Pomegranate-suite/apps/MicroBank"
+      },
+      {
+        "iac_type": "kustomize",
+        "directory": "/vagrant/home/Pomegranate-suite/apps/MicroBank",
+        "errMsg": "kustomization.y(a)ml file not found in the directory /vagrant/home/Pomegranate-suite/apps/MicroBank"
+      },
+      {
+        "iac_type": "helm",
+        "directory": "/vagrant/home/Pomegranate-suite/apps/MicroBank",
+        "errMsg": "no helm charts found in directory /vagrant/home/Pomegranate-suite/apps/MicroBank"
+      }
+    ],
+    "violations": [
+      {
+        "rule_name": "multipleCMDInstructions",
+        "description": "Ensure that there is only be one CMD instruction in a Dockerfile. If you list more than one CMD then only the last CMD will take effect",
+        "rule_id": "AC_DOCKER_0053",
+        "severity": "MEDIUM",
+        "category": "Infrastructure Security",
+        "resource_name": "Dockerfile",
+        "resource_type": "docker_cmd",
+        "file": "services/payment/Dockerfile",
+        "line": 9
+      },
+      {
+        "rule_name": "multipleCMDInstructions",
+        "description": "Ensure that there is only be one CMD instruction in a Dockerfile. If you list more than one CMD then only the last CMD will take effect",
+        "rule_id": "AC_DOCKER_0053",
+        "severity": "MEDIUM",
+        "category": "Infrastructure Security",
+        "resource_name": "Dockerfile",
+        "resource_type": "docker_cmd",
+        "file": "services/apigateway/Dockerfile",
+        "line": 9
+      },
+      {
+        "rule_name": "multipleCMDInstructions",
+        "description": "Ensure that there is only be one CMD instruction in a Dockerfile. If you list more than one CMD then only the last CMD will take effect",
+        "rule_id": "AC_DOCKER_0053",
+        "severity": "MEDIUM",
+        "category": "Infrastructure Security",
+        "resource_name": "Dockerfile",
+        "resource_type": "docker_cmd",
+        "file": "services/transactions/Dockerfile",
+        "line": 9
+      },
+      {
+        "rule_name": "multipleCMDInstructions",
+        "description": "Ensure that there is only be one CMD instruction in a Dockerfile. If you list more than one CMD then only the last CMD will take effect",
+        "rule_id": "AC_DOCKER_0053",
+        "severity": "MEDIUM",
+        "category": "Infrastructure Security",
+        "resource_name": "Dockerfile",
+        "resource_type": "docker_cmd",
+        "file": "services/users/Dockerfile",
+        "line": 9
+      },
+      {
+        "rule_name": "multipleCMDInstructions",
+        "description": "Ensure that there is only be one CMD instruction in a Dockerfile. If you list more than one CMD then only the last CMD will take effect",
+        "rule_id": "AC_DOCKER_0053",
+        "severity": "MEDIUM",
+        "category": "Infrastructure Security",
+        "resource_name": "Dockerfile",
+        "resource_type": "docker_cmd",
+        "file": "services/accounts/Dockerfile",
+        "line": 9
+      },
+      {
+        "rule_name": "imageVersionnotusinglatest",
+        "description": "Ensure :latest version is not used for Docker file",
+        "rule_id": "AC_DOCKER_0041",
+        "severity": "MEDIUM",
+        "category": "Infrastructure Security",
+        "resource_name": "Dockerfile",
+        "resource_type": "docker_from",
+        "file": "services/payment/Dockerfile",
+        "line": 1
+      },
+      {
+        "rule_name": "imageVersionnotusinglatest",
+        "description": "Ensure :latest version is not used for Docker file",
+        "rule_id": "AC_DOCKER_0041",
+        "severity": "MEDIUM",
+        "category": "Infrastructure Security",
+        "resource_name": "Dockerfile",
+        "resource_type": "docker_from",
+        "file": "services/users/Dockerfile",
+        "line": 1
+      },
+      {
+        "rule_name": "imageVersionnotusinglatest",
+        "description": "Ensure :latest version is not used for Docker file",
+        "rule_id": "AC_DOCKER_0041",
+        "severity": "MEDIUM",
+        "category": "Infrastructure Security",
+        "resource_name": "Dockerfile",
+        "resource_type": "docker_from",
+        "file": "services/transactions/Dockerfile",
+        "line": 1
+      },
+      {
+        "rule_name": "imageVersionnotusinglatest",
+        "description": "Ensure :latest version is not used for Docker file",
+        "rule_id": "AC_DOCKER_0041",
+        "severity": "MEDIUM",
+        "category": "Infrastructure Security",
+        "resource_name": "Dockerfile",
+        "resource_type": "docker_from",
+        "file": "services/apigateway/Dockerfile",
+        "line": 1
+      },
+      {
+        "rule_name": "imageVersionnotusinglatest",
+        "description": "Ensure :latest version is not used for Docker file",
+        "rule_id": "AC_DOCKER_0041",
+        "severity": "MEDIUM",
+        "category": "Infrastructure Security",
+        "resource_name": "Dockerfile",
+        "resource_type": "docker_from",
+        "file": "services/accounts/Dockerfile",
+        "line": 1
+      },
+      {
+        "rule_name": "pipInstallKeepingCachedPackages",
+        "description": "Ensure when installing packages with pip, the '--no-cache-dir' flag should be set to make Docker images smaller",
+        "rule_id": "AC_DOCKER_0031",
+        "severity": "MEDIUM",
+        "category": "Infrastructure Security",
+        "resource_name": "Dockerfile",
+        "resource_type": "docker_run",
+        "file": "docker_image_template/Dockerfile",
+        "line": 5
+      },
+      {
+        "rule_name": "pipUnpinnedVersion",
+        "description": "Ensure Pinned Pip Package Version",
+        "rule_id": "AC_DOCKER_0010",
+        "severity": "MEDIUM",
+        "category": "Infrastructure Security",
+        "resource_name": "Dockerfile",
+        "resource_type": "docker_run",
+        "file": "docker_image_template/Dockerfile",
+        "line": 5
+      }
+    ],
+    "skipped_violations": null,
+    "scan_summary": {
+      "file/folder": "/vagrant/home/Pomegranate-suite/apps/MicroBank",
+      "iac_type": "docker",
+      "scanned_at": "2023-05-19 22:06:53.207048305 +0000 UTC",
+      "policies_validated": 25,
+      "violated_policies": 12,
+      "low": 0,
+      "medium": 12,
+      "high": 0
+    }
+  }
+}
